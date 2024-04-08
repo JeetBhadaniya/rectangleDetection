@@ -8,4 +8,4 @@ Press q for exit code.
 <br>
 Press r for recapture
 <br>
-Press s for save image
+Press s for saving image
